@@ -86,11 +86,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kousic05&show_icons=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&hide_border=true&layout=compact&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kousic05&hide_border=true&layout=compact&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 
 </td></tr></table>
 <br />
