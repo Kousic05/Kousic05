@@ -97,7 +97,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=GowravKrishna-V&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Kousic05-V&&style=flat-square)  
   
 
 <br/>  
